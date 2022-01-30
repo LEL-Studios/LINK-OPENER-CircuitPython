@@ -18,6 +18,7 @@ golink("https://google.com") # Replace the URL with your own.
 ```
 
 # 📟 LICENSE
+
 ```
 MIT License
 
