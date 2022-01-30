@@ -13,8 +13,6 @@ from golink import golink
 
 golink("https://google.com") # Replace the URL with your own.
 
-...
-
 ```
 
 # 📟 LICENSE
