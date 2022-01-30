@@ -8,6 +8,7 @@ A link opener library for circuitpython boards. This only works with US-Layout k
 4. Go to the `lib` folder and find `golink.py`, place that file in the root of your board.
 5. If you want to make your own `code.py` file you can do this: <br>
 <br>
+
 ```
 from golink import golink
 
