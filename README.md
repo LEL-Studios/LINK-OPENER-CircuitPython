@@ -21,7 +21,7 @@ golink("https://google.com") # Replace the URL with your own.
 ```
 MIT License
 
-Copyright(c) 2021 lucaso60 <br>
+Copyright(c) 2021 lucaso60
 Copyright(c) 2021 LEL Studios 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
