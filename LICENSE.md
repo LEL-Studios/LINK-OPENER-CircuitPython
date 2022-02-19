@@ -8,8 +8,8 @@ ___
 ```
 MIT License
 
-Copyright(c) 2021 lucaso60
-Copyright(c) 2021 LEL Studios 
+Copyright (c) 2022 Lucas "Lucaso" Nguyen for Lucestra Studios
+Copyright(c) 2021 Lucestra Studios
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files(the "Software"), to deal
