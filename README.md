@@ -20,42 +20,24 @@ golink("https://google.com") # Replace the URL with your own.
 
 # 📟 LICENSE
 ```
-MIT License
+All code and files in this directory and in directories further down the directory tree is licensed under the MIT License, unless otherwise specified (see below), the whole license and copyright holder(s) is in ./LICENSE.
 
-Copyright(c) 2021 lucaso60
-Copyright(c) 2021 LEL Studios 
+You shall follow all the terms of the MIT License (./LICENSE) and/or other licenses for the files in this directory.
+```
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files(the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and / or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Unless specified otherwise (see below), the license and copyright information applies to all files in this repository.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Individual files may include additional copyright holders. Licenses for the other files can be referred to in the `./credits` folder. 
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+```
+./ (MIT)
+    /lib
+        /adafruit_hid (MIT, ./credits/Adafruit_CircuitPython_HID)
+        hid.mpy (MIT, ./credits/Adafruit_CircuitPython_HID)
 ```
 
 ---
-Unless specified otherwise (see below), the above license and copyright applies to all files in this repository.
-
-Individual files may include additional copyright holders. Licenses for the other files can be referred to in the `credits` folder. 
-
-```
-/ (MIT)
-    /lib
-        /adafruit_hid (MIT)
-        hid.mpy (MIT)
-```
 
 # 📫 Contact
-You can contact us at dev.lelstudios@outlook.com
+Contact information in GitHub Profile.
 
